@@ -1,7 +1,7 @@
 # VBA Challenge
 Module 2 Assesment
 ## Overview of Project
-In Module 2 we were given stock performance data for twelve companies for the years 2017 and 2018. We initally started our analysis looking at one company in particular (DAQO) and found their return in 2018 was subpar. This led to developing code in VBA that allows us to review the performance of all 12 companies we have data for over both years. 
+In Module 2 we were given stock performance data for twelve companies for the years 2017 and 2018. We initally started our analysis looking at one company in particular (DAQO) and found their return in 2018 was subpar. This led to developing code in VBA that allows us to review the performance of all 12 companies we have data for over both years in order to find other investment opportunities. 
 
 ## Results
 #### Stock Performance
