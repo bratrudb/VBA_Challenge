@@ -16,7 +16,7 @@ In 2018 performance was down with only two instances of a company achieving posi
 Using the output from this analysis, Steve should recommend his parents invest in ENPH as there were positive returns in both years and ENPH performed well in 2018 which was a down year overall for almost all other companies in thies analysis.
 
 #### Impact of Refactored Script
-Refactoring the code allowed for a much faster run time. For this analysis we are only looking a twelve companies but so the run time was not a serious issue on the original script. If we were analyzing thousands of companies stock performance, this could be a significant issue. The refactored runtime can be seen below for 2017 and 2018 respectively:
+Refactoring the code allowed for a much faster run time. For this analysis we are only looking at twelve companies so the run time was not a serious issue on the original script. If we were analyzing the stock performance for thousands of companies this could be a significant issue. The refactored runtime can be seen below for 2017 and 2018 respectively:
 
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/90737940/135729828-8d5c474a-1936-4840-9f73-4789991a0b18.png)
 
@@ -31,9 +31,9 @@ By creating an array to store the output for the ticker, the ticker volume, and 
 ## Summary
 #### What are the advantages or disadvantages to refactoring code
 
-There are a few key benefits to refactoring code. The first is by refactoring the code, it can improve the runtime of a program. This can be very important when we are looking at large datasets. Another benefit to refactoring can be to make the code easier to understand and help eliminate bugs in the software. As the module mentions, refactoring can be done by another person. This can provide a good opportunity for another set of eyes to find the shortfalls of the code and to make sure it is understandable to another person.
+There are a few key benefits to refactoring code. First, by refactoring the code we can improve the runtime of a program. This can be very important when we are looking at large datasets. Another benefit to refactoring is to make the code easier to understand and help eliminate potential errors in the code. As the module mentions, refactoring can be done by another person. This can provide a good opportunity for another set of eyes to find the shortfalls of the code and to make sure it is understandable to another person.
 
-While there are many benefits to refactoring code, there are also a couple key disadvantages. Refactoring can be time consuming. If you or someone else is refactoring your code, it might take a significant amount of time and have little performance increase over the original code. The second is there is additional opportunity to make mistakes. If a mistake is made, additional time must be spent to find and fix what went wrong.
+While there are many benefits to refactoring code, there are also a couple key disadvantages. Refactoring can be time consuming. If you or someone else is refactoring your code, it might take a significant amount of time and have little performance increase over the original code. There is also an additional opportunity for errors. If a mistake is made, additional time must be spent to find and fix what went wrong.
 
 #### How do these pros and cons apply to refactoring the original VBA script
 
